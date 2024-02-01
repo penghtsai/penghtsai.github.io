@@ -2,7 +2,7 @@
 
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color:#1552ae;
 }
 
 .header {
@@ -13,13 +13,16 @@
     background-color: var(--h-title-color);
 }
 
+
 .top-section {
     position: relative;
     padding: 10rem 0;
     background-position: center;
     background-size: cover;
     height: 25rem;
+    background-repeat: no-repeat; /* Optional: prevents repeating the background image */
 }
+
 
 .top-section h2 {
     font-weight: 400;
@@ -40,17 +43,18 @@
     background: rgba(0, 0, 0, 0.5);
 }
 
+
 section header h2{
-    font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+    font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
     font-size: 2.3rem;
     line-height: 4rem;
 }
 
 section .main-body{
-    font-size: 1.3rem;
-    font-weight: 200;
-    line-height: 2.4rem;
+    font-size: 1.1rem;
+    font-weight: 250;
+    line-height: 2rem;
 }
 
 
@@ -61,7 +65,6 @@ section .main-body{
 .bg-gradient-primary-to-secondary-gray {
     background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
 }
-
 
 
 .on-top {
@@ -126,4 +129,21 @@ section .main-body{
         margin-top: 7rem;
     }
 
+}
+
+.icon-svg {
+    width: 20px; /* Adjust the width as needed */
+    height: 20px; /* Adjust the height as needed */
+    vertical-align: middle; /* Align the icons vertically in the middle of the line */
+    margin-right: 5px; /* Adjust the margin between the icon and the text */
+}
+
+ul {
+    list-style: none; /* Remove default list styles */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Use flexbox to make the list items horizontal */
+}
+
+li {
+    margin-right: 15px; /* Adjust the margin between list items */
 }
