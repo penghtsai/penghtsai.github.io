@@ -137,13 +137,3 @@ section .main-body{
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 5px; /* Adjust the margin between the icon and the text */
 }
-
-ul {
-    list-style: none; /* Remove default list styles */
-    padding: 0; /* Remove default padding */
-    display: flex; /* Use flexbox to make the list items horizontal */
-}
-
-li {
-    margin-right: 15px; /* Adjust the margin between list items */
-}
