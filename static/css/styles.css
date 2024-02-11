@@ -10916,20 +10916,25 @@ footer a:hover, footer a:active, footer a:focus {
   margin-right: 5px; /* Adjust the margin between the icon and the text */
 }
 
-ul {
-  list-style: none; /* Remove default list styles */
-  padding: 0; /* Remove default padding */
-  display: flex; /* Use flexbox to make the list items horizontal */
+
+.profile-links {
+  display: flex; /* Or inline-flex for inline layout */
+  flex-direction: row; /* Set to column for vertical stack */
+  margin-top: 10px; /* Adjust spacing as needed */
 }
 
-li {
-  margin-right: 15px; /* Adjust the margin between list items */
+.profile-links li {
+  margin-right: 10px; /* Adjust spacing as needed */
 }
 
-#publications {
-  margin-top: 8px; /* Adjust the value as needed */
+.profile-links img {
+  height: 20px; /* Adjust size as needed */
+  width: 20px;
+  margin-right: 5px; /* Adjust spacing as needed */
 }
 
-#teaching {
-  margin-top: 8px; /* Adjust the value as needed */
+.profile-pic {
+  border-radius: 50%; /* Creates a circle */
+  width: 100px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
 }
