@@ -10917,11 +10917,6 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 
-.profile-links {
-  display: flex; /* Or inline-flex for inline layout */
-  flex-direction: row; /* Set to column for vertical stack */
-  margin-top: 5px; /* Adjust spacing as needed */
-}
 
 .profile-links li {
   margin-right: 10px; /* Adjust spacing as needed */
@@ -10933,18 +10928,8 @@ footer a:hover, footer a:active, footer a:focus {
   margin-right: 5px; /* Adjust spacing as needed */
 }
 
-ul {
-  list-style: none; /* Remove default list styles */
-  padding: 0; /* Remove default padding */
-  display: flex; /* Use flexbox to make the list items horizontal */
-}
-
-li {
-  margin-right: 15px; /* Adjust the margin between list items */
-}
-
 .profile-pic {
-  border-radius: 50%; /* Creates a circle */
-  width: 150px; /* Adjust width as needed */
-  height: 150px; /* Adjust height as needed */
+  border-radius: 40%; /* Creates a circle */
+  width: 200px; /* Adjust width as needed */
+  height: 200px; /* Adjust height as needed */
 }
