@@ -132,18 +132,9 @@ section .main-body{
 }
 
 .icon-svg {
-    width: 20px; /* Adjust the width as needed */
-    height: 20px; /* Adjust the height as needed */
+    width: 40px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
-    margin-right: 5px; /* Adjust the margin between the icon and the text */
+    margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
 
-ul {
-  list-style: none; /* Remove default list styles */
-  padding: 0; /* Remove default padding */
-  display: flex; /* Use flexbox to make the list items horizontal */
-}
-
-li {
-  margin-right: 15px; /* Adjust the margin between list items */
-}
