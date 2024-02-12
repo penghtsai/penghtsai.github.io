@@ -10910,15 +10910,15 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .icon-svg {
-    width: 280px; /* Adjust percentage as needed */
-    height: 280px; /* Adjust percentage as needed */
+    width: 20px; /* Adjust percentage as needed */
+    height: 20px; /* Adjust percentage as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
 
 .graduation-cap-svg {
-    width: 100%; /* Adjust percentage as needed */
-    height: 100%; /* Adjust percentage as needed */
+    width: 20px; /* Adjust percentage as needed */
+    height: 20px; /* Adjust percentage as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
@@ -10928,8 +10928,8 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .profile-links img {
-  height: 20px; /* Adjust size as needed */
-  width: 20px;
+  height: 40px; /* Adjust size as needed */
+  width: 40px;
   margin-right: 5px; /* Adjust spacing as needed */
 }
 
