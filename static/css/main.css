@@ -19,10 +19,13 @@
     padding: 6rem 0;
     background-position: center;
     background-size: cover;
-    height: 10rem;
+    height: 14rem;
     background-repeat: no-repeat; /* Optional: prevents repeating the background image */
 }
 
+.top-section h4 {
+    font-weight: 200;
+}
 
 .top-section h2 {
     font-weight: 400;
@@ -45,6 +48,13 @@
 
 
 section header h2{
+    font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+    color: var(--h-title-color);
+    font-size: 1.8rem;
+    line-height: 3rem;
+}
+
+section header h4{
     font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
     font-size: 1.8rem;
