@@ -10938,3 +10938,9 @@ footer a:hover, footer a:active, footer a:focus {
   width: 180px; /* Adjust width as needed */
   height: 180px; /* Adjust height as needed */
 }
+
+.col-md-7 img {
+  height: 10px; /* Adjust size as needed */
+  width: 10px;
+  margin-right: 2px; /* Adjust spacing as needed */
+}
