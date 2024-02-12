@@ -19,7 +19,7 @@
     padding: 6rem 0;
     background-position: center;
     background-size: cover;
-    height: 14rem;
+    height: 16rem;
     background-repeat: no-repeat; /* Optional: prevents repeating the background image */
 }
 
@@ -28,7 +28,7 @@
 }
 
 .top-section h2 {
-    font-weight: 400;
+    font-weight: 200;
 }
 
 .top-section .top-section-content {
@@ -50,21 +50,21 @@
 section header h2{
     font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
-    font-size: 1.8rem;
-    line-height: 3rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
 
 section header h4{
     font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
-    font-size: 1.8rem;
-    line-height: 3rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
 
 section .main-body{
     font-size: 1.1rem;
     font-weight: 250;
-    line-height: 2rem;
+    line-height: 1.5rem;
 }
 
 
@@ -142,8 +142,8 @@ section .main-body{
 }
 
 .icon-svg {
-    width: 40px; /* Adjust the width as needed */
-    height: 40px; /* Adjust the height as needed */
+    width: 80px; /* Adjust the width as needed */
+    height: 80px; /* Adjust the height as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
