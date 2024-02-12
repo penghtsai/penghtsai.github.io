@@ -142,16 +142,15 @@ section .main-body{
 }
 
 .icon-svg {
-    width: 180px; /* Adjust percentage as needed */
-    height: 180px; /* Adjust percentage as needed */
+    width: 280px; /* Adjust percentage as needed */
+    height: 280px; /* Adjust percentage as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
 
 .graduation-cap-svg {
-    width: 10%; /* Adjust percentage as needed */
-    height: 10%; /* Adjust percentage as needed */
+    width: 100%; /* Adjust percentage as needed */
+    height: 100%; /* Adjust percentage as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
-
