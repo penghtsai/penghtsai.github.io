@@ -10933,6 +10933,16 @@ footer a:hover, footer a:active, footer a:focus {
   margin-right: 5px; /* Adjust spacing as needed */
 }
 
+ul {
+  list-style: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+  display: flex; /* Use flexbox to make the list items horizontal */
+}
+
+li {
+  margin-right: 15px; /* Adjust the margin between list items */
+}
+
 .profile-pic {
   border-radius: 50%; /* Creates a circle */
   width: 150px; /* Adjust width as needed */
