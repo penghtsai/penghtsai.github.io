@@ -3,14 +3,14 @@
 **Co-Instructor** | Spring 2024 | [University of Arkansas at Little Rock](https://ualr.edu/)
 
 * IFSC 7310 Information Systems Analysis (Graduate)
-    * Taught sessions on applying system analysis and design techniques.
-    * Instructed on the fundamentals of HTML, JavaScript, and PHP for developing Web-based information systems.
+    * Teach sessions on applying system analysis and design techniques.
+    * Instruct on the fundamentals of HTML, JavaScript, and PHP for developing Web-based information systems.
 
 **Teaching Assistant** | 2019-Present | [University of Arkansas at Little Rock](https://ualr.edu/)
 
 * IFSC 2200 Ethics in the Profession (Undergraduate)
     * Fall 2019-Fall 2020, Fall 2021-Spring 2024
-    * Graded assignments, including short essays, lecture inquiries, student-selected ethical cases, and case studies.
+    * Grade assignments, including short essays, lecture inquiries, student-selected ethical cases, and case studies.
 * IFSC 3360 System Analysis and Design (Undergraduate)
     * Fall 2023
     * Taught a session on PHP syntax and concepts.
