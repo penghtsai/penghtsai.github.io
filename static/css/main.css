@@ -19,7 +19,7 @@
     padding: 6rem 0;
     background-position: center;
     background-size: cover;
-    height: 16rem;
+    height: 15rem;
     background-repeat: no-repeat; /* Optional: prevents repeating the background image */
 }
 
@@ -50,14 +50,14 @@
 section header h2{
     font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     line-height: 2rem;
 }
 
 section header h4{
     font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     line-height: 2rem;
 }
 
@@ -142,15 +142,15 @@ section .main-body{
 }
 
 .icon-svg {
-    width: 280px; /* Adjust percentage as needed */
-    height: 280px; /* Adjust percentage as needed */
+    width: 20px; /* Adjust percentage as needed */
+    height: 20px; /* Adjust percentage as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
 
 .graduation-cap-svg {
-    width: 100%; /* Adjust percentage as needed */
-    height: 100%; /* Adjust percentage as needed */
+    width: 20px; /* Adjust percentage as needed */
+    height: 20px; /* Adjust percentage as needed */
     vertical-align: middle; /* Align the icons vertically in the middle of the line */
     margin-right: 8px; /* Adjust the margin between the icon and the text */
 }
