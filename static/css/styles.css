@@ -10929,7 +10929,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .profile-pic {
-  border-radius: 40%; /* Creates a circle */
+  border-radius: 50%; /* Creates a circle */
   width: 200px; /* Adjust width as needed */
   height: 200px; /* Adjust height as needed */
 }
