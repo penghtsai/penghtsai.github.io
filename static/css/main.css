@@ -16,10 +16,10 @@
 
 .top-section {
     position: relative;
-    padding: 10rem 0;
+    padding: 6rem 0;
     background-position: center;
     background-size: cover;
-    height: 12rem;
+    height: 10rem;
     background-repeat: no-repeat; /* Optional: prevents repeating the background image */
 }
 
@@ -47,7 +47,7 @@
 section header h2{
     font-family: "Segoe UI", "Kanit", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
-    font-size: 2.3rem;
+    font-size: 1.8rem;
     line-height: 3rem;
 }
 
