@@ -10920,7 +10920,7 @@ footer a:hover, footer a:active, footer a:focus {
 .profile-links {
   display: flex; /* Or inline-flex for inline layout */
   flex-direction: row; /* Set to column for vertical stack */
-  margin-top: 10px; /* Adjust spacing as needed */
+  margin-top: 5px; /* Adjust spacing as needed */
 }
 
 .profile-links li {
@@ -10935,6 +10935,6 @@ footer a:hover, footer a:active, footer a:focus {
 
 .profile-pic {
   border-radius: 50%; /* Creates a circle */
-  width: 100px; /* Adjust width as needed */
-  height: 100px; /* Adjust height as needed */
+  width: 150px; /* Adjust width as needed */
+  height: 150px; /* Adjust height as needed */
 }
